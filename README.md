@@ -23,6 +23,7 @@
 * 1:45:   Plan out website - workflow, necessary components, functionality, UI
 * 2:15:   Continue reviewing firebase and how to implement plan in react
 * 3:06:   Start basic coding of project
+* 4:10:   Work on Firestore
 
 
 # Getting Started with Create React App
