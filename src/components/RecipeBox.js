@@ -1,5 +1,5 @@
 const RecipeBox = () => {
-  return (  );
+  return ();
 }
- 
+
 export default RecipeBox;
