@@ -26,7 +26,25 @@
 * 4:10:   Work on Firestore
 
 
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-app.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
 
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyBEOdJhQM-dB24Q9OIgpHPcnlhcQfS3hG0",
+    authDomain: "epicodus-capstone-recipe-box.firebaseapp.com",
+    projectId: "epicodus-capstone-recipe-box",
+    storageBucket: "epicodus-capstone-recipe-box.appspot.com",
+    messagingSenderId: "583868880866",
+    appId: "1:583868880866:web:84bb52dde1bb2f56764bbb"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+</script>
 
 # Getting Started with Create React App
 
