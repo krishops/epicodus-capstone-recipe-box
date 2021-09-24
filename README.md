@@ -19,6 +19,7 @@
 * 9:30:   Learn about making API calls/Parsing JSON data in React component
 * 10:10:  Refresh/relearn routing in React
 * 11:15:  Watch react YouTube tutorials on API calls and routing
+* 1:00:   Review using Firebase/Firestore   
 
 
 # Getting Started with Create React App
