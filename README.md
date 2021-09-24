@@ -21,6 +21,7 @@
 * 11:15:  Watch react YouTube tutorials on API calls and routing
 * 1:00:   Review using Firebase/Firestore
 * 1:45:   Plan out website - workflow, necessary components, functionality, UI
+* 2:15:   Continue reviewing firebase and how to implement plan in react
 
 
 # Getting Started with Create React App
