@@ -13,11 +13,12 @@
 * 4:00:   Attempt implementation of API
 
 ### Friday 9/24/2021
-* 8:05: Start new project file for project in React
+* 8:05:   Start new project file for project in React
   * Work on adding basic react files
-* 8:25: Further practice/learning how to use hooks
-* 9:30: Learn about making API calls/Parsing JSON data in React component
-* 10:10 Refresh routing in React
+* 8:25:   Further practice/learning how to use hooks
+* 9:30:   Learn about making API calls/Parsing JSON data in React component
+* 10:10:  Refresh/relearn routing in React
+* 11:15:  Watch react YouTube tutorials on API calls and routing
 
 
 # Getting Started with Create React App
