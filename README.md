@@ -1,3 +1,8 @@
+## Friday 9/24/2021
+* 8:05 Start new project file for project in React
+  * Work on adding basic react files
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
