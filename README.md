@@ -17,6 +17,7 @@
   * Work on adding basic react files
 * 8:25: Further practice/learning how to use hooks
 * 9:30: Learn about making API calls/Parsing JSON data in React component
+* 10:10 Refresh routing in React
 
 
 # Getting Started with Create React App
